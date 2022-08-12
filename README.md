@@ -2,7 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-ashton.khoo@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashton.khoo@hotmail.com)](mailto:ashton.khoo@hotmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-chun-wen-khoo-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-wen-khoo/)](https://www.linkedin.com/in/chun-wen-khoo/) 
 [![Github Badge](https://img.shields.io/badge/-ashtonkhoo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ashtonkhoo/)](https://www.github.com/ashtonkhoo/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/ashtonkhoo/)](https://github.com/ashtonkhoo/) 
 <p align='left'>Data Scientist, enthusiastic about machine learning. Highly capable leader, and proficient in a range of modern technologies pertaining to the data science field. </p>
 
 ## Some of my Github Stats
