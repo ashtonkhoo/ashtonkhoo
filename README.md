@@ -1,4 +1,4 @@
-## Hey 👋, This is Chun Wen Khoo
+## Hey 👋, nice to meet you! 🤗
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:ashton.khoo@hotmail.com)](mailto:ashton.khoo@hotmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-wen-khoo/)](https://www.linkedin.com/in/chun-wen-khoo/) 
 <p align='left'>Data Scientist, enthusiastic about ML/AI. Highly capable leader, and proficient in a range of modern technologies pertaining to the data science field. </p>
