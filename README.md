@@ -4,7 +4,7 @@
 <p align='left'>Data Scientist, enthusiastic about ML/AI. Highly capable leader, and proficient in a range of modern technologies pertaining to the data science field. </p>
 
 ## Dev Stack
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Some of my Github Stats
